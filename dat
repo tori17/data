@@ -1,3 +1,9 @@
+{
+  "Access-Control-Allow-Origin": "*",
+  "data": {
+    // contenido de tu archivo JSON
+  }
+}
 [
     {
         "alumno": "Pedro",
